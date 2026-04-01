@@ -77,7 +77,7 @@ python Main-P.py
    - View CGPA, class, and equivalent percentage
 
 ### 6. **Load Sample Data** (Optional)
-   - Click "Load Melam Akash Sample" to load pre-populated subjects for testing
+   - Click "Load student Sample" to load pre-populated subjects for testing
 
 ## Example Calculation
 
