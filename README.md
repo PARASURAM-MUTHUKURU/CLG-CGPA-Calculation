@@ -1,3 +1,4 @@
+# SVUCE
 # SGPA & CGPA Calculator
 
 A Python-based GUI application for calculating **SGPA (Semester Grade Point Average)** and **CGPA (Cumulative Grade Point Average)** using the official college grading system.
